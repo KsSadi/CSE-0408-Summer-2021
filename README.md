@@ -1,5 +1,5 @@
 # CSE-0318-Summer-2021
-## This is Software Engineering Lab Repository
+## This is Artificial Intelligence Lab Repository
 
 Name: Md. Khaled Saifullah Sadi
 
